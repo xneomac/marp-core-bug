@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@marp-team/marp-core": "^0.13.1"
+  }
+}
